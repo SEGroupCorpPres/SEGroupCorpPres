@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sulaymon O'rinov
--    I'm Flutter developer
+-    I'm Web and Flutter developer
 - 👀 I’m interested in learnig reading books and playing pc and mobile game
 - 🌱 I’m currently learning React and NodeJs
 
